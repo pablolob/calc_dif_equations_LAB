@@ -16,6 +16,7 @@ Las aplicaciones biomédicas de este repositorio tienen un propósito exclusivam
 | 01  | [Descenso de Gradiente](./01_Descenso_Gradiente.ipynb) | Optimización numérica mediante descenso por el gradiente         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablolob/calc_dif_equations_LAB/blob/main/01_Descenso_Gradiente.ipynb)  |
 | 02  | [Quimiotaxis Celular](./02_Quimiotaxis_Celular.ipynb)  | Modelado del movimiento celular dirigido por gradientes químicos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablolob/calc_dif_equations_LAB/blob/main/02_Quimiotaxis_Celular.ipynb) |
 | 03  | [Ley de Murray](./03_Ley_de_Murray.ipynb)              | Optimización vascular: por qué los vasos sanguíneos se ramifican así | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablolob/calc_dif_equations_LAB/blob/main/03_Ley_de_Murray.ipynb) |
+| 04  | [Centro de Masas del Tumor](./04_Centro_Masas_Tumor.ipynb) | Localización del centroide de un tumor mediante integrales dobles | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablolob/calc_dif_equations_LAB/blob/main/04_Centro_Masas_Tumor.ipynb) |
 
 ---
 
