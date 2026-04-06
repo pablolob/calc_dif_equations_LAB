@@ -4,6 +4,11 @@ Conjunto de python notebooks de ejercicios y demostraciones de la intersección 
 
 El objetivo es mostrar ejemplos y ejercicios con aplicaciones que puedan ser de interés para el grado de ingeniería biomédica.
 
+**Disclaimer:**
+
+Las aplicaciones biomédicas de este repositorio tienen un propósito exclusivamente educativo. Para poder aplicar las matemáticas de forma clara en un entorno de laboratorio inicial, **los escenarios clínicos y parámetros biológicos son ficticios o están fuertemente simplificados**. No representan con exactitud la complejidad fisiológica o médica real.
+
+
 ##  Contenidos
 
 | #   | Notebook                                               | Descripción                                                      | Colab                                                                                                                                                                                         |
